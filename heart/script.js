@@ -22,7 +22,7 @@ var sizeDisplay = 1;  // TUNNING
 var center = new Vector(width / 2, height / 2);  // TUNNING
 
 var color = "#FF007F";  // TUNNING
-var color2 = "#FF007711";  // TUNNING
+var color2 = "rgba(255, 0, 200, .1)";  // TUNNING
 var heartPoints = [];
 
 // ray tracing option
